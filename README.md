@@ -99,7 +99,7 @@ This project was inspired by UpGrad IITB Programme as a case study for the Machi
 
 ## Contact
 
-Created by Snehal Yadav (snehalyadav3099@gmail.com) & Srikrishna Jana (srikrishna.jana@medtronic.com)
+Created by Snehal Yadav (snehalyadav3099@gmail.com) & Srikrishna Jana (Srikrishnajntu@gmail.com)
 
 <!-- Optional -->
 
